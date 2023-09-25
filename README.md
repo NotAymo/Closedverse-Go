@@ -1,11 +1,44 @@
 # Closedverse-Go
-Closedverse but in GoLang ! Using https://github.com/PF2M/Indigo 's code
+Closedverse but in GoLang ! Using https://github.com/PF2M/Indigo code
 
 # Requirements
 
-- Go
-- MySQL (You can use the XAMPP bundle)
-- NGrok (if you want to host it)
+- Go - https://go.dev/
+- MySQL - https://dev.mysql.com/downloads/ (You can use the XAMPP bundle, or just Phpmyadmin)
+- Ngrok - https://ngrok.com/ (if you want to host it publicly)
 
-# How to host it ?
-E
+# How to host it ? (LOCAL ONLY)
+/!\ Warning ! Using Ngrok as hoster will "expose" your IP, use at your own risk /!\
+- Download the `.zip` file and unzip it
+- Right click in the `Closedverse-Go` folder
+- Open with Terminal/Powershell (Or do [Windows key] + R then type cmd, `cd Downloads`, cd Closedverse-Go)
+- Type `go build` and wait until a `Indigo.exe` file appears in the `Closedverse-Go` folder
+- Then type `.\Indigo.exe`
+- Go to http://localhost/
+- Create an account and open Phpmyadmin, and give you the permission 9
+- And enjoy your fully fast Closedverse !
+# How to host it ? (NGROK METHOD ONLY)
+- Download the `.zip` file and unzip it
+- Right click in the `Closedverse-Go` folder
+- Open with Terminal/Powershell (Or do [Windows key] + R then type cmd, `cd Downloads`, cd Closedverse-Go)
+- Type `go build` and wait until a `Indigo.exe` file appears in the `Closedverse-Go` folder
+- Then type `.\Indigo.exe`
+- Go to http://localhost/
+- Create an account and open Phpmyadmin, and give you the permission 9
+- Create an account on https://ngrok.com/ and Download the client
+- Open the Ngrok client
+- Copy your `AuthToken` command on the client
+- Go to the Ngrok dashboard and go to the sidebar and click on `Tunnel/Edge` and then `Domains` and create a new one
+- For the first time, they will give the tunnel command directly, but if you wanna retunnel it, click on the command icon.
+- Paste the command on the client
+- (For repairing the errors, put `127.0.0.1:80` instead of `http://localhost:80`
+- Now enjoy your online fully fast Closedverse !
+# Untendo Team
+Owner : Aymo (GitHub : https://github.com/NotAymo )
+Co-Owner : gray (Github : https://githubcom/grayhax )
+Developper : Minihoot (Github : https://github.com/Hoot679 )
+# Credits
+Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
+Made by
+PF2M (https://github.com/PF2M)
+Pip (https://github.com/OhHeyItsPip)
