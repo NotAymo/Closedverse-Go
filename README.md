@@ -34,11 +34,11 @@ Closedverse but in GoLang ! Using https://github.com/PF2M/Indigo code
 - (For repairing the errors, put `127.0.0.1:80` instead of `http://localhost:80`
 - Now enjoy your online fully fast Closedverse !
 # Untendo Team
-Owner : Aymo (GitHub : https://github.com/NotAymo )
-Co-Owner : gray (Github : https://githubcom/grayhax )
-Developper : Minihoot (Github : https://github.com/Hoot679 )
+- Owner : Aymo (GitHub : https://github.com/NotAymo )
+- Co-Owner : gray (Github : https://githubcom/grayhax )
+- Developper : Minihoot (Github : https://github.com/Hoot679 )
 # Credits
 Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
-Made by
-PF2M (https://github.com/PF2M)
-Pip (https://github.com/OhHeyItsPip)
+Made by <3 by
+- PF2M (https://github.com/PF2M)
+- Pip (https://github.com/OhHeyItsPip)
