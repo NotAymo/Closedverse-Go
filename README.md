@@ -1,19 +1,19 @@
 # Closedverse-Go
-Closedverse but in GoLang ! Using https://github.com/PF2M/Indigo code
+Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 
 # Requirements
 
 - Go - https://go.dev/
-- MySQL - https://dev.mysql.com/downloads/ (You can use the XAMPP bundle, or just Phpmyadmin)
+- MySQL - https://dev.mysql.com/downloads/ (get the xampp bundle or php yadmin)
 - Ngrok - https://ngrok.com/ (if you want to host it publicly)
 
-# How to host it ? (LOCAL ONLY)
+# How to host it? (LOCAL ONLY)
 - Download the `.zip` file and unzip it
 - Right click in the `Closedverse-Go` folder
 - Open with Terminal/Powershell (Or do [Windows key] + R then type cmd, `cd Downloads`, cd Closedverse-Go)
 - Type `go build` and wait until a `Indigo.exe` file appears in the `Closedverse-Go` folder
 - Then type `.\Indigo.exe`
-- Go to http://localhost/
+- Go to http://127.0.0.1/ (localhost gives you an error)
 - Create an account and open Phpmyadmin, and give you the permission 9
 - And enjoy your fully fast Closedverse !
 # How to host it ? (NGROK METHOD ONLY)
@@ -24,7 +24,7 @@ Closedverse but in GoLang ! Using https://github.com/PF2M/Indigo code
 - Type `go build` and wait until a `Indigo.exe` file appears in the `Closedverse-Go` folder
 - Then type `.\Indigo.exe`
 - Go to http://localhost/
-- Create an account and open Phpmyadmin, and give you the permission 9
+- Create an account and open PHPMyadmin, and give you the permission 9
 - Create an account on https://ngrok.com/ and Download the client
 - Open the Ngrok client
 - Copy your `AuthToken` command on the client
