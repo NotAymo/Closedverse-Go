@@ -37,7 +37,7 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 - Owner : Aymo (GitHub: https://github.com/NotAymo)
 - Co-Owner : gray (Github: https://github.com/grayhax)
 - Developper : Minihoot (Github: https://github.com/Hoot679)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 # Credits
 Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
 # Original Creators
