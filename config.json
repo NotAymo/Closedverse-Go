@@ -1,0 +1,62 @@
+{
+	"ListenSocket": false,
+	"SocketOwner": "www-data",
+	"Port": ":80",
+	"GzipEnabled": true,
+	"CSRFProtectDisable": true,
+	"SSL": {
+		"Enabled": false,
+		"Certificate": "cert.pem",
+		"Key": "key.pem"
+	},
+	"DB": {
+		"Host": "mariadb",
+		"Username": "root",
+		"Password": "",
+		"Name": "indigo"
+	},
+	"ImageHost": {
+		"Provider": "local",
+		"Username": "reverb",
+		"APIEndpoint": "https://api.cloudinary.com",
+		"APIPublic": "",
+		"APISecret": "",
+		"ImageEndpoint": "images",
+		"UploadPreset": "reverb-mobile",
+		"MaxUploadSize": "25MB"
+	},
+	"Webhooks": {
+		"Enabled": false,
+		"Reports": "",
+		"Signups": "",
+		"Logins": ""
+	},
+	"ReCAPTCHA": {
+		"Enabled": false,
+		"SiteKey": "",
+		"SecretKey": ""
+	},
+	"SMTP": {
+		"Enabled": false,
+		"Hostname": "",
+		"Port": ":25",
+		"Email": "",
+		"Password": ""
+	},
+	"CSRFSecret": "~9/Þ~@=,a(±®hAxb",
+	"IPHubKey": "",
+	"MiiEndpointPrefix": "https://pf2m.com/hash/",
+	"Proxy": false,
+	"ForceLogins": false,
+	"AllowSignups": true,
+	"DefaultTimezone": "America/New_York",
+	"ReportReasons": [
+		{
+			"Name": "Rulebreaking Content",
+			"Message": "Your post broke the rules, so it was removed.",
+			"Enabled": true,
+			"BodyRequired": false
+		}
+	],
+	"EmoteLimit": 5
+}
