@@ -17,7 +17,7 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 - Create an account and open Phpmyadmin, and give you the permission 9
 - And enjoy your fully fast Closedverse !
 # How to host it ? (NGROK METHOD ONLY)
-/!\ Warning ! Using Ngrok as hoster will "expose" your IP, use at your own risk /!\
+/!\ Warning ! Using Ngrok as hoster will expose your IP, use at your own risk /!\
 - Download the `.zip` file and unzip it
 - Right click in the `Closedverse-Go` folder
 - Open with Terminal/Powershell (Or do [Windows key] + R then type cmd, `cd Downloads`, cd Closedverse-Go)
@@ -34,10 +34,10 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 - (For repairing the errors, put `127.0.0.1:80` instead of `http://localhost:80`
 - Now enjoy your online fully fast Closedverse !
 # Untendo Team
-- Owner : Aymo (GitHub: https://github.com/NotAymo)
-- Co-Owner : gray (Github: https://github.com/grayhax)
-- Developper : Minihoot (Github: https://github.com/Hoot679)
-- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+- Owner : Aymo (GitHub : https://github.com/NotAymo )
+- Co-owner : Minihoot (GitHub : https://github.com/Hoot679 )
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 # Credits
 Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
 # Original Creators
