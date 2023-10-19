@@ -36,6 +36,8 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 # Untendo Team
 - Owner : Aymo (GitHub : https://github.com/NotAymo )
 - Co-owner : Minihoot (GitHub : https://github.com/Hoot679 )
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 # Credits
 Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
 # Original Creators
