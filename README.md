@@ -35,8 +35,7 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 - Now enjoy your online fully fast Closedverse !
 # Untendo Team
 - Owner : Aymo (GitHub : https://github.com/NotAymo )
-- Co-Owner : gray (Github : https://github.com/grayhax )
-- Developper : Minihoot (Github : https://github.com/Hoot679 )
+- Co-owner : Minihoot (GitHub : https://github.com/Hoot679 )
 # Credits
 Closedverse-Go uses Indigo's code ! https://github.com/PF2M/Indigo
 # Original Creators
