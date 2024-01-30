@@ -33,9 +33,11 @@ Closedverse but in Golang! Using https://github.com/PF2M/Indigo code
 - Paste the command on the client
 - (For repairing the errors, put `127.0.0.1:80` instead of `http://localhost:80`
 - Now enjoy your online fully fast Closedverse !
-# Untendo Team
+# 2tendo Team
 - Owner : Aymo (GitHub : https://github.com/NotAymo )
 - Co-owner : Minihoot (GitHub : https://github.com/Hoot679 )
+
+  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 # Credits
